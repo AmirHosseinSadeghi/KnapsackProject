@@ -13,3 +13,18 @@ C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.
 C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.csproj.CoreCompileInputs.cache
 C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.exe
 C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.pdb
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\bin\Debug\AlgoritmProject.exe.config
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\bin\Debug\AlgoritmProject.exe
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\bin\Debug\AlgoritmProject.pdb
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.csproj.AssemblyReference.cache
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\MainWindow.g.cs
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\App.g.cs
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject_MarkupCompile.cache
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject_MarkupCompile.lref
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\MainWindow.baml
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.g.resources
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.Properties.Resources.resources
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.csproj.GenerateResource.cache
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.csproj.CoreCompileInputs.cache
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.exe
+G:\Programming\C# Projects\Algoritm\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.pdb
