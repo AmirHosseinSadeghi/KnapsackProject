@@ -1,0 +1,19 @@
+﻿<Window x:Class="AlgoritmProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlgoritmProject"
+        mc:Ignorable="d"
+        Title="Investing Portfo" Height="737.679" Width="538.036">
+    <Grid Margin="0,0,-6,-20" Background="DarkGray" HorizontalAlignment="Left" Width="538">
+        <DataGrid Height="420" FontSize="20" Name="dgTest" Background="LightGray" CanUserResizeColumns="True" CanUserAddRows="False" CanUserSortColumns="True" IsReadOnly="True" ItemsSource="{Binding}" Margin="110,27,99,281" />
+        <Label x:Name="Resultlbl" Background="LightGray" FontSize="20" Content="Choose An Algoritm To See the Best Invest Plan" HorizontalAlignment="Left" Margin="43,473,0,0" VerticalAlignment="Top" Width="431"/>
+        <Button x:Name="PriceGreedy" Content="PriceGreedy" HorizontalAlignment="Left" Margin="293,556,0,0" VerticalAlignment="Top" Width="130" Height="60" Click="PriceGreedy_Click" />
+        <Button x:Name="ProfitGreedy" Content="ProfitGreedy" HorizontalAlignment="Left" Margin="293,632,0,0" VerticalAlignment="Top" Width="130" Height="60" Click="ProfitGreedy_Click" />
+        <Button x:Name="DynamicProgramming" Content="Dynamic Programming" HorizontalAlignment="Left" Margin="110,632,0,0" VerticalAlignment="Top" Width="130" Height="60" Click="DynamicProgramming_Click"/>
+        <Button x:Name="BackTracking" Content="Back Tracking" HorizontalAlignment="Left" Margin="110,556,0,0" VerticalAlignment="Top" Width="130" Height="60" Click="BackTracking_Click"/>
+        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Margin="9,27,0,0" VerticalAlignment="Top" Width="80" Height="59" Click="Back_Click"/>
+
+    </Grid>
+</Window>

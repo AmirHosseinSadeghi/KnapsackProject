@@ -1,0 +1,15 @@
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\bin\Debug\AlgoritmProject.exe.config
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\bin\Debug\AlgoritmProject.exe
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\bin\Debug\AlgoritmProject.pdb
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.csproj.AssemblyReference.cache
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\MainWindow.g.cs
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\App.g.cs
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject_MarkupCompile.cache
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject_MarkupCompile.lref
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\MainWindow.baml
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.g.resources
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.Properties.Resources.resources
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.csproj.GenerateResource.cache
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.exe
+C:\Users\Amir\Desktop\AlgoritmProject\AlgoritmProject\obj\Debug\AlgoritmProject.pdb
